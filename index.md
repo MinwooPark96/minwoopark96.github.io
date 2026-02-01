@@ -17,7 +17,7 @@ Oct 2024: One paper is accepted at NeurIPS 2024.
 ## Education
 
 Graduate School of Data Science, Seoul National University (2022 - present)<br/>
-**M.S & Ph.D.** (candidate) in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+**M.S. & Ph.D.** (candidate) in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/> 
 **B.S.** in Applied Statistic and Mathematics (Double Major), Cum Laude, Advisors: [Prof. Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/) <br/> 
