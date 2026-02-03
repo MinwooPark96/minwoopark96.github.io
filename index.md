@@ -5,7 +5,7 @@ title: Min Woo Park
 
 ## About Me
 
-Hi, thanks for visiting my site! I previously conducted research in [Functional Analysis Lab](https://home.sejong.ac.kr/~jieunlee7/6.html) and [Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home) at [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in the [Causality Lab](https://www.sanghacklee.me/members/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/). My research focuses on **Causal Decision Making** and **Causal Effect Identification**. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
+Hi, thanks for visiting my site! I previously conducted research in [Functional Analysis Lab](https://home.sejong.ac.kr/~jieunlee7/6.html) and [Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home) at [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in the [Causality Lab](https://www.sanghacklee.me/members/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/). My research focuses on **Causal Decision Making** and **Causal Effect Identification**. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. 
 
 ## News
 ![New!](../assets/new.gif) Jan 2026: One paper is accepted at ICLR 2026!<br/> 
