@@ -28,7 +28,7 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 
 1. Counterfactual Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-International Conference on Learning Representations (ICLR), 2026 [[paper](https://openreview.net/forum?id=gjvTNxVd2f)]
+International Conference on Learning Representations (ICLR), 2026 - [[paper](https://openreview.net/forum?id=gjvTNxVd2f)]
 
 2. Structural Causal Bandits under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
