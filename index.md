@@ -46,7 +46,11 @@ arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.17953)]
 <ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
-6. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+6. <ins>Min Woo Park</ins>\*, Taehui yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, Sanghack Lee† <br/>
+Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
+under review 
+
+7. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
