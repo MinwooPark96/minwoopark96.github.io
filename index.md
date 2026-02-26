@@ -50,7 +50,7 @@ under review, arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.1795
 <ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, and Sanghack Lee† <br/>
 under review 
 
-7. Query-Specific Canonical Domains for Efficient Partial Counterfactual Identification <br/>
+7. Canonical Domain Reduction for Partial Counterfactual Identification <br/>
 Yesong Choe, Yeahoon Kwon, <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review 
 
