@@ -36,7 +36,7 @@ Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openrev
 
 3. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.17953)]
+under review, arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.17953)]
 
 4. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
@@ -47,10 +47,14 @@ arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.17953)]
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
 6. Breaking Bad: Component-wise Parent Deletion for Score-Based Causal Discovery <br/>
-<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, Sanghack Lee† <br/>
+<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, and Sanghack Lee† <br/>
 under review 
 
-7. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+7. Query-Specific Canonical Domains for Efficient Partial Counterfactual Identification <br/>
+Yesong Choe, Yeahoon Kwon, <ins>Min Woo Park</ins>\*, and Sanghack Lee† <br/>
+under review 
+
+8. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
