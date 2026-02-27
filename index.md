@@ -46,7 +46,7 @@ under review, arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.1795
 <ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
-6. Breaking Bad: Component-wise Parent Deletion for Score-Based Causal Discovery <br/>
+6. Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
 <ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, and Sanghack Lee† <br/>
 under review 
 
