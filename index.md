@@ -61,4 +61,4 @@ under review
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
 
 ## Academic Services
-Conference reviewer: **2026** ICLR, ICML, **2025** ICML 
+Conference reviewer: **2026** UAI, ICLR, ICML, **2025** ICML 
