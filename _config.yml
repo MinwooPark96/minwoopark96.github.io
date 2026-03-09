@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Min Woo Park
-  tagline: Ph.D. Student
+  tagline: Ph.D. Candidate
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -28,7 +28,7 @@ plainwhite:
   social_links:
     # twitter: samarsault
     github:  MinwooPark96
-    linkedIn: in/minwoo-park-342920263/
+    linkedIn: in/min-woo-park-342920263
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
