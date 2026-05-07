@@ -47,7 +47,7 @@ under review, arXiv preprint, 2025 - [[preprint](https://arxiv.org/abs/2511.1795
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
 6. Canonical Domain Reduction for Partial Counterfactual Identification <br/>
-Yesong Choe, Yeahoon Kwon, <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
+Yesong Choe, Yeahoon Kwon\*, <ins>Min Woo Park\*</ins>, and Sanghack Lee† <br/>
 under review, Technical Report - [[preprint](https://www.sanghacklee.me/assets/canonical-domain-reduction-pcid.pdf)]
 
 7. Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
