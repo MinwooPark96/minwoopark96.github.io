@@ -24,7 +24,7 @@ Department of Mathematics and Statistics, Sejong University (Sep. 2016  - Aug. 2
 
 
 ## Publication
-<small>\* for joint first authorship and † for corresponding author.</small>
+<small>\* for joint authorship and † for corresponding author.</small>
 
 1. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
