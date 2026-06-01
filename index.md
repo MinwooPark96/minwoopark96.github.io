@@ -31,8 +31,9 @@ Department of Mathematics and Statistics, Sejong University (Sep. 2016  - Aug. 2
 Uncertainty in Artificial Intelligence (UAI), 2026 - [[preprint](https://arxiv.org/abs/2511.17953)]
 
 2. Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
-<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, LG AI Research, and Sanghack Lee† <br/>
+<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, [LG AI Research Bio Intelligence Lab](https://www.lgresearch.ai/ourwork/research?tab=PG), and Sanghack Lee† <br/>
 Uncertainty in Artificial Intelligence (UAI), 2026
+
 
 3. Canonical Domain Reduction for Partial Counterfactual Identification <br/>
 Yesong Choe, Yeahoon Kwon\*, <ins>Min Woo Park\*</ins>, and Sanghack Lee† <br/>
