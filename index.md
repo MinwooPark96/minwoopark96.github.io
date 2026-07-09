@@ -28,16 +28,15 @@ Department of Mathematics and Statistics, Sejong University (Mar. 2016  - Aug. 2
 
 1. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-Uncertainty in Artificial Intelligence (UAI), 2026 - [[preprint](https://arxiv.org/abs/2511.17953)]
+Uncertainty in Artificial Intelligence (UAI), 2026 - [[paper](https://openreview.net/forum?id=3CN07lBQrD)]
 
 2. Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
 <ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, [LG AI Research](https://www.lgresearch.ai/), and Sanghack Lee† <br/>
-Uncertainty in Artificial Intelligence (UAI), 2026
-
+Uncertainty in Artificial Intelligence (UAI), 2026 - [[paper](https://openreview.net/forum?id=oxdOxCxgCu)]
 
 3. Canonical Domain Reduction for Partial Counterfactual Identification <br/>
 Yesong Choe, Yeahoon Kwon\*, <ins>Min Woo Park\*</ins>, and Sanghack Lee† <br/>
-Uncertainty in Artificial Intelligence (UAI), 2026 - [[preprint](https://www.sanghacklee.me/assets/canonical-domain-reduction-pcid.pdf)]
+Uncertainty in Artificial Intelligence (UAI), 2026 - [[paper](https://openreview.net/forum?id=mutepWK56P)]
 
 4. Counterfactual Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
