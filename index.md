@@ -58,7 +58,9 @@ Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openrev
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
-[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
+[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
+
+<!-- [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)] -->
 
 ## Academic Services
 Conference reviewer: **2026** NeurIPS, UAI, ICLR, ICML, **2025** ICML 
