@@ -31,7 +31,7 @@ Department of Mathematics and Statistics, Sejong University (Mar. 2016  - Aug. 2
 Uncertainty in Artificial Intelligence (UAI), 2026 - [[paper](https://openreview.net/forum?id=3CN07lBQrD)]
 
 2. Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery <br/>
-<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Younsuk Yeom, Jonghwan Kim, [LG AI Research](https://www.lgresearch.ai/), and Sanghack Lee† <br/>
+<ins>Min Woo Park</ins>\*, Taehui Yun\*, Youngin Jang, Yoonseok Yeom, Jonghwan Kim, [LG AI Research](https://www.lgresearch.ai/), and Sanghack Lee† <br/>
 Uncertainty in Artificial Intelligence (UAI), 2026 - [[paper](https://openreview.net/forum?id=oxdOxCxgCu)]
 
 3. Canonical Domain Reduction for Partial Counterfactual Identification <br/>
