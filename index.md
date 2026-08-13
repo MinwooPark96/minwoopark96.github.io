@@ -8,16 +8,16 @@ title: Min Woo Park
 Hi, thanks for visiting my site! I previously conducted research at the [Functional Analysis Lab](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home) and the [Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home) at [Sejong University](http://sejong.ac.kr/). I am currently a **Ph.D. candidate** in Data Science at [Seoul National University](https://www.snu.ac.kr/) and a member of the [Causality Lab](https://www.sanghacklee.me/members/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;">. I also work as an AI Research Engineer Intern at [Furiosa AI](https://furiosa.ai/).
 
 ## News
-![New!](../assets/new.gif) Jun 2026: Three papers are accepted at UAI 2026!<br/> 
-Jan 2026: One paper is accepted at ICLR 2026!<br/> 
+![New!](../assets/new.gif) Jun 2026: Three papers are accepted at **UAI 2026**!<br/> 
+Jan 2026: One paper is accepted at **ICLR 2026**!<br/> 
 Nov 2025: A preprint for our paper on transportability for structural causal bandits is released!<br/> 
-Sep 2025: One paper is accepted at NeurIPS 2025!<br/> 
-Oct 2024: One paper is accepted at NeurIPS 2024.
+Sep 2025: One paper is accepted at **NeurIPS 2025**!<br/> 
+Oct 2024: One paper is accepted at **NeurIPS 2024**.
 
 ## Education
 
 Graduate School of Data Science, Seoul National University (Sep. 2022 - Feb. 2027)<br/>
-**M.S. & Ph.D.** (candidate) in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+**Ph.D.** (candidate) in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 Department of Mathematics and Statistics, Sejong University (Mar. 2016  - Aug. 2022) <br/> 
 **B.S.** in Applied Statistic and Mathematics (Double Major), Cum Laude, Advisors: [Prof. Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/) <br/> 
