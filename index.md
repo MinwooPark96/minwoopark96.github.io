@@ -5,7 +5,8 @@ title: Min Woo Park
 
 ## About Me
 
-I am a **Ph.D. candidate** in Data Science at [Seoul National University](https://www.snu.ac.kr/), advised by [Sanghack Lee](https://www.sanghacklee.me/). I earned my Bachelor's degree, with a double major in Applied Statistics and Mathematics, from [Sejong University](http://sejong.ac.kr/) under the supervision of [Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/).
+I am a **Ph.D. candidate** in Data Science at [Seoul National University](https://www.snu.ac.kr/), advised by [Sanghack Lee](https://www.sanghacklee.me/). I earned my Bachelor's degree, with a double major in Applied Statistics and Mathematics, from [Sejong University](http://sejong.ac.kr/) under the supervision of [Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/). I also worked as an AI Research Engineer Intern at [Furiosa AI](https://furiosa.ai/). Starting in March 2027, I will join [Samsung Research](https://research.samsung.com/).
+
 
 ## News
 
@@ -20,20 +21,18 @@ I am a **Ph.D. candidate** in Data Science at [Seoul National University](https:
 
 ## Education
 
-Graduate School of Data Science, Seoul National University (Sep. 2022 - Feb. 2027)<br/>
-**Ph.D.** (candidate) in Data Science
+**Seoul National University**, Seoul (Sep. 2022 - Feb. 2027)<br/>
+**Ph.D.** (candidate) in Data Science, Advisor: Prof. [Sanghack Lee](https://www.sanghacklee.me/)
 
-Department of Mathematics and Statistics, Sejong University (Mar. 2016  - Aug. 2022) <br/> 
-**B.S.** in Applied Statistic and Mathematics (Double Major), *Cum Laude* <br/> 
+**Sejong University**, Seoul (Mar. 2016  - Aug. 2022) <br/> 
+**B.S.** in Applied Statistic and Mathematics (Double Major), *Cum Laude*, Advisors: Prof. [Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/) <br/> 
 
-<!-- ## Research Experience
-
-[Samsung Research](https://research.samsung.com/) (Starting in Mar. 2027)<br/>
+<!-- [Samsung Research](https://research.samsung.com/) (Starting in Mar. 2027)<br/>
 [Furiosa AI](https://furiosa.ai/) (Jun. 2026 - Sep. 2026)<br/>
 [Causality Lab](https://www.sanghacklee.me/members/), Seoul National University (Jan. 2023 - Feb. 2027)<br/>
 [Functional Analysis Lab](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home), Sejong University (Jul. 2021 - Dec. 2022)<br/>
-[Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home), Sejong University (Jan. 2021 - Dec. 2022)
- -->
+[Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home), Sejong University (Jan. 2021 - Dec. 2022) -->
+
 
 ## Publication
 <small>\* for joint authorship and † for corresponding author.</small>
