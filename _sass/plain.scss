@@ -276,6 +276,43 @@ main {
     font-family: "Inter", system-ui, -apple-system, sans-serif;
   }
 }
+
+.news-scroll {
+  max-height: 5.7em;
+  overflow-y: auto;
+  padding-right: 10px;
+  margin-bottom: 1em;
+  scrollbar-width: thin;
+  scrollbar-color: #b8b8b8 #f2f2f2;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: #f2f2f2;
+  border-radius: 999px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #b8b8b8;
+  border-radius: 999px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.news-item {
+  min-height: 1.9em;
+}
+
+.news-new-icon {
+  max-height: 1em;
+  vertical-align: -0.1em;
+}
+
 .posts-labelgroup {
   margin: 0 0 0.67em 0;
   display: flex;
