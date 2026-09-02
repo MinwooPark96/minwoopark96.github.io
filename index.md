@@ -27,12 +27,6 @@ I am a **Ph.D. candidate** in Data Science at [Seoul National University](https:
 **Sejong University**, Seoul (Mar. 2016  - Aug. 2022) <br/> 
 **B.S.** in Applied Statistic and Mathematics (Double Major), *Cum Laude*, Advisors: Prof. [Ji Eun Lee](https://home.sejong.ac.kr/~jieunlee7/) and [Jin Hee Yoon](https://home.sejong.ac.kr/~jin9135/) <br/> 
 
-<!-- [Samsung Research](https://research.samsung.com/) (Starting in Mar. 2027)<br/>
-[Furiosa AI](https://furiosa.ai/) (Jun. 2026 - Sep. 2026)<br/>
-[Causality Lab](https://www.sanghacklee.me/members/), Seoul National University (Jan. 2023 - Feb. 2027)<br/>
-[Functional Analysis Lab](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home), Sejong University (Jul. 2021 - Dec. 2022)<br/>
-[Intelligent Systems and Data Science (ISDS) Lab](https://sites.google.com/view/isdslab/home), Sejong University (Jan. 2021 - Dec. 2022) -->
-
 
 ## Publication
 <small>\* for joint authorship and † for corresponding author.</small>
@@ -71,5 +65,21 @@ under review
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)][[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)]
 
+
+## Research Experiences
+
+[Samsung Research](https://research.samsung.com/) (Starting in Mar. 2027)<br/>
+[Furiosa AI](https://furiosa.ai/) (Jun. 2026 - Sep. 2026)<br/>
+[Causality Lab](https://www.sanghacklee.me/members/), Seoul National University (Jan. 2023 - Feb. 2027)<br/>
+[Functional Analysis Lab](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home), Sejong University (Jul. 2021 - Dec. 2022)<br/>
+[Intelligent Systems and Data Science Lab](https://sites.google.com/view/isdslab/home), Sejong University (Jan. 2021 - Dec. 2022)
+
+
 ## Academic Services
-Conference reviewer: **2027** ICLR, **2026** NeurIPS, UAI, ICLR, ICML, **2025** ICML 
+
+$\diamond$ Conference reviewer: <br/>
+&ensp; **2027.** ICLR <br/>
+&ensp; **2026.** NeurIPS, UAI, ICLR, ICML <br/>
+&ensp; **2025.** ICML 
+
+$\diamond$ Reviewed AI/ML lecture video content from LG AI Research for [LG Aimers](https://www.lgaimers.ai/) (Summer, Winter **2025**, Summer **2026**)
