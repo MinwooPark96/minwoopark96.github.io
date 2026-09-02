@@ -68,18 +68,20 @@ under review
 
 ## Research Experiences
 
-[Samsung Research](https://research.samsung.com/) (Starting in Mar. 2027)<br/>
-[Furiosa AI](https://furiosa.ai/) (Jun. 2026 - Sep. 2026)<br/>
-[Causality Lab](https://www.sanghacklee.me/members/), Seoul National University (Jan. 2023 - Feb. 2027)<br/>
-[Functional Analysis Lab](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home), Sejong University (Jul. 2021 - Dec. 2022)<br/>
-[Intelligent Systems and Data Science Lab](https://sites.google.com/view/isdslab/home), Sejong University (Jan. 2021 - Dec. 2022)
+<div class="research-scroll">
+  <div class="research-item">▫ <a href="https://research.samsung.com/">Samsung Research</a> (Starting in Mar. 2027)</div>
+  <div class="research-item">▫ <a href="https://furiosa.ai/">Furiosa AI</a> (Jun. 2026 - Sep. 2026)</div>
+  <div class="research-item">▫ <a href="https://www.sanghacklee.me/members/">Causality Lab</a>, Seoul National University (Jan. 2023 - Feb. 2027)</div>
+  <div class="research-item">▫ <a href="https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home">Functional Analysis Lab</a>, Sejong University (Jul. 2021 - Dec. 2022)</div>
+  <div class="research-item">▫ <a href="https://sites.google.com/view/isdslab/home">Intelligent Systems and Data Science Lab</a>, Sejong University (Jan. 2021 - Dec. 2022)</div>
+</div>
 
 
 ## Academic Services
 
-$\diamond$ Conference reviewer: <br/>
+▫ Conference reviewer: <br/>
 &ensp; **2027.** ICLR <br/>
 &ensp; **2026.** NeurIPS, UAI, ICLR, ICML <br/>
 &ensp; **2025.** ICML 
 
-$\diamond$ Reviewed AI/ML lecture video content from LG AI Research for [LG Aimers](https://www.lgaimers.ai/) (Summer, Winter **2025**, Summer **2026**)
+▫ Reviewed AI/ML lecture video content from LG AI Research for [LG Aimers](https://www.lgaimers.ai/) (Summer, Winter **2025**, Summer **2026**)
