@@ -65,12 +65,13 @@ under review
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)][[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)]
 
+<br/> 
 
 ## Research Experiences
 
 <div class="research-scroll">
   <div class="research-item">▫ <a href="https://research.samsung.com/">Samsung Research</a> (Starting in Mar. 2027)</div>
-  <div class="research-item">▫ <a href="https://furiosa.ai/">Furiosa AI</a> (Jun. 2026 - Sep. 2026)</div>
+  <div class="research-item">▫ <a href="https://furiosa.ai/">Furiosa AI</a> (Jun. 2026 - Sep. 2026), <span class="experience-note">Internship</span> </div>
   <div class="research-item">▫ <a href="https://www.sanghacklee.me/members/">Causality Lab</a>, Seoul National University (Jan. 2023 - Feb. 2027)</div>
   <div class="research-item">▫ <a href="https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home">Functional Analysis Lab</a>, Sejong University (Jul. 2021 - Dec. 2022)</div>
   <div class="research-item">▫ <a href="https://sites.google.com/view/isdslab/home">Intelligent Systems and Data Science Lab</a>, Sejong University (Jan. 2021 - Dec. 2022)</div>
