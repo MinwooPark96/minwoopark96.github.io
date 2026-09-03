@@ -80,6 +80,9 @@ under review
 
 ## Academic Services
 
+▫ Journal reviewer: <br/>
+&ensp; **2026.** JASA <br/>
+
 ▫ Conference reviewer: <br/>
 &ensp; **2027.** ICLR <br/>
 &ensp; **2026.** NeurIPS, UAI, ICLR, ICML <br/>
