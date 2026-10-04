@@ -81,7 +81,8 @@ under review
 ## Academic Services
 
 ▫ Journal reviewer: <br/>
-&ensp; **2026.** JASA <br/>
+&ensp; &ensp; Journal of the American Statistical Association (JASA) <br/>
+&ensp; &ensp; The Journal of Artificial Intelligence (AIJ)
 
 ▫ Conference reviewer: <br/>
 &ensp; **2027.** ICLR <br/>
