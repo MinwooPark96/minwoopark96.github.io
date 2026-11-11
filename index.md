@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Min Woo Park
+title: "Min Woo's Homepage"
 ---
 
 ## About Me
