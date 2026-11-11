@@ -1,47 +1,22 @@
-function toggleDarkMode() {
-    const DARK_CLASS = 'dark';
+(function () {
+    var toggles = document.querySelectorAll('.dark-mode-toggle');
+    var savedTheme = document.cookie.match(/(?:^|;\s*)theme=(dark|light)(?:;|$)/);
+    var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 
-    var body = document.querySelector("body");
-    if (body.classList.contains(DARK_CLASS)) {
-        setCookie('theme', 'light');
-        body.classList.remove(DARK_CLASS);
-    } else {
-        setCookie('theme', 'dark');
-        body.classList.add(DARK_CLASS);
+    function applyTheme(dark) {
+        document.body.classList.toggle('dark', dark);
+        toggles.forEach(function (toggle) {
+            toggle.checked = dark;
+        });
     }
-}
 
-function getCookie(name) {
-    var v = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
-    return v ? v[2] : null;
-}
-function setCookie(name, value, days) {
-    var d = new Date;
-    d.setTime(d.getTime() + 24*60*60*1000*days);
-    document.cookie = name + "=" + value + ";path=/;SameSite=strict;expires=" + d.toGMTString();
-}
+    applyTheme(savedTheme ? savedTheme[1] === 'dark' : prefersDark);
 
-function deleteCookie(name) { setCookie(name, '', -1); }
-
-
-const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-var theme = getCookie('theme');
-if ( (theme === null && userPrefersDark) || theme === 'dark') {
-    var checkDarkDone = false;
-    function checkDark() {
-        if (!checkDarkDone) {
-            toggleDarkMode();
-        }
-        checkDarkDone = true;
-    };
-
-    function toggleSwitch() {
-        document.querySelectorAll('.dark-mode-toggle').forEach(ti => ti.checked = true);
-    };
-
-    // Attempt both requestAnimationFrame and DOMContentLoaded, whichever comes first.
-    if (window.requestAnimationFrame) window.requestAnimationFrame(checkDark);
-    window.addEventListener('DOMContentLoaded', checkDark);
-
-    window.addEventListener('DOMContentLoaded', toggleSwitch);
-}
+    toggles.forEach(function (toggle) {
+        toggle.addEventListener('change', function () {
+            var dark = toggle.checked;
+            applyTheme(dark);
+            document.cookie = 'theme=' + (dark ? 'dark' : 'light') + ';path=/;SameSite=Strict;max-age=31536000';
+        });
+    });
+})();

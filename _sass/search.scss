@@ -69,7 +69,8 @@ main {
       display: flex;
       background-color: transparent;
 
-      &:hover {
+      &:hover,
+      &:focus-visible {
         color: black;
         background-color: #eee;
       }

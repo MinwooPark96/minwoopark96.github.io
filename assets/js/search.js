@@ -1,48 +1,67 @@
 ---
 ---
 
-window.onload = function () {
-    var $searchbar = document.getElementById('searchbar');
-    var $searchResults = document.getElementById('search-results');
+window.addEventListener('DOMContentLoaded', function () {
+    var searchbar = document.getElementById('searchbar');
+    var searchResults = document.getElementById('search-results');
+    var labelGroup = document.querySelector('.posts-labelgroup');
+    var postLabel = document.getElementById('posts-label');
 
-    if (!$searchbar || !$searchResults)
-        return;
+    if (!searchbar || !searchResults || !labelGroup || !postLabel) return;
 
-    SimpleJekyllSearch({
-        searchInput: $searchbar,
-        resultsContainer: $searchResults,
+    function escapeHTML(value) {
+        var entities = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+        return String(value).replace(/[&<>"']/g, function (character) {
+            return entities[character];
+        });
+    }
+
+    var search = SimpleJekyllSearch({
+        searchInput: searchbar,
+        resultsContainer: searchResults,
         json: '{{ "/search.json" | relative_url }}',
-        searchResultTemplate: '<a href="{url}" target="_blank">{title}</a>',
+        searchResultTemplate: '<a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>',
+        templateMiddleware: function (property, value) {
+            if (property === 'title' || property === 'url') return escapeHTML(value);
+        },
         noResultsText: ''
     });
 
-    /* hack ios safari unfocus */
-    if (/Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent))
-        document.body.firstElementChild.tabIndex = 1;
+    var labelWidth = postLabel.scrollWidth + 'px';
+    postLabel.style.width = labelWidth;
 
-    var $labelGroup = document.querySelector(".posts-labelgroup");
-    var $postLabel = document.getElementById("posts-label");
-    var labelWidth = $postLabel.scrollWidth;
+    function openSearch() {
+        searchResults.style.display = '';
+        postLabel.style.width = '0';
+        labelGroup.classList.add('focus-within');
+    }
 
-    $postLabel.style.width = labelWidth + "px";
+    function closeSearch() {
+        searchResults.style.display = 'none';
+        postLabel.style.width = labelWidth;
+        labelGroup.classList.remove('focus-within');
+    }
 
-    $labelGroup.addEventListener("click", function (e) {
-        $searchResults.style.display = null;
-        $postLabel.style.width = "0";
-        $labelGroup.setAttribute("class", "posts-labelgroup focus-within");
-        $searchbar.focus();
-        e.stopPropagation();
-    }, false);
-
-    $labelGroup.addEventListener("mouseleave", function () {
-        document.body.onclick = searchCollapse;
+    labelGroup.addEventListener('focusin', openSearch);
+    labelGroup.addEventListener('focusout', function (event) {
+        if (!labelGroup.contains(event.relatedTarget)) closeSearch();
     });
-
-    var searchCollapse = function (e) {
-        $searchResults.style.display = "none";
-        $labelGroup.setAttribute("class", "posts-labelgroup");
-        $postLabel.style.width = labelWidth + "px";
-        document.body.onclick = null;
-    };
-}
-
+    labelGroup.addEventListener('click', function (event) {
+        if (event.target.closest('a')) return;
+        searchbar.focus();
+        openSearch();
+    });
+    searchbar.addEventListener('input', function () {
+        search.search(searchbar.value);
+        openSearch();
+    });
+    labelGroup.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') {
+            searchbar.focus();
+            closeSearch();
+        }
+    });
+    document.addEventListener('click', function (event) {
+        if (!labelGroup.contains(event.target)) closeSearch();
+    });
+});

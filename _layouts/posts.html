@@ -16,9 +16,9 @@ layout: default
       <div class="search-container">
         <div class="search-section">
           <i class="icon-search"></i>
-          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
+          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts" aria-controls="search-results">
         </div>
-        <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
+        <div class="search-results" id="search-results" data-placeholder="No Results" aria-live="polite" style="display: none;"></div>
       </div>
       {% endif %}
     </li>

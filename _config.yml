@@ -1,10 +1,11 @@
-title: https://minwoopark96.github.io/
-author: Minwoo Park
+title: Min Woo Park
+url: "https://minwoopark96.github.io"
+baseurl: ""
+author: Min Woo Park
 email: alsdn0110@snu.ac.kr
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  Min Woo Park is a Ph.D. candidate in Data Science at Seoul National
+  University, researching causal inference and causal decision-making.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -63,6 +64,8 @@ plainwhite:
 
 # Build settings
 # theme: plainwhite
+exclude:
+  - tests
 
 plugins:
   - jekyll-seo-tag

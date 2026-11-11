@@ -11,7 +11,7 @@ I am a **Ph.D. candidate** in Data Science at [Seoul National University](https:
 ## News
 
 <div class="news-scroll">
-  <div class="news-item"><img src="../assets/new.gif" alt="New!" class="news-new-icon"> Sep 2026: I was awarded the <strong>NRF Ph.D. Fellowship</strong>.</div>
+  <div class="news-item"><img src="{{ '/assets/new.gif' | relative_url }}" alt="New!" class="news-new-icon"> Sep 2026: I was awarded the <strong>NRF Ph.D. Fellowship</strong>.</div>
   <div class="news-item">Jun 2026: Three papers are accepted at <strong>UAI 2026</strong>!</div>
   <div class="news-item">Jan 2026: One paper is accepted at <strong>ICLR 2026</strong>!</div>
   <div class="news-item">Nov 2025: A preprint for our paper on transportability for structural causal bandits is released!</div>
@@ -25,7 +25,7 @@ I am a **Ph.D. candidate** in Data Science at [Seoul National University](https:
 **Ph.D.** (candidate) in Data Science, Advisor: Prof. [Sanghack Lee](https://www.sanghacklee.me/)
 
 **Sejong University**, Seoul (Mar. 2016  - Aug. 2022) <br/> 
-**B.S.** in Applied Statistic and Mathematics (Double Major), *Cum Laude*, Advisors: Prof. [Ji Eun Lee](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home) and [Jin Hee Yoon](https://sites.google.com/view/isdslab/home) <br/> 
+**B.S.** in Applied Statistics and Mathematics (Double Major), *Cum Laude*, Advisors: Prof. [Ji Eun Lee](https://sites.google.com/view/math-jieunlee7/ji-eun-lees-home) and [Jin Hee Yoon](https://sites.google.com/view/isdslab/home) <br/>
 
 
 ## Publication
@@ -67,7 +67,7 @@ Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openrev
 Ji Eun Lee\*†, and **Min Woo Park**\* <br/>
 Under review
 
-[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)][[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)]
+[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[OpenReview](https://openreview.net/profile?id=~Min_Woo_Park1)][[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)]
 
 <br/> 
 
